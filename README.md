@@ -9,7 +9,7 @@
 🍀Amo a natureza e seu misterio sob a terra e ao mar🍀
 <br>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kutsky&theme=radical&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=\kutsky&layout=compact)](https://github.com/kutsky/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=\Kutsky&layout=compact)](https://github.com/Kutsky/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" width="40">

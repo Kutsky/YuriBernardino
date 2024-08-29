@@ -1,13 +1,14 @@
 ## ✭✭ Olá !! Me chamo Yuri ✭✭
 
 Ⅰ ♘Gosto de ler e assistir series e filmes sobre mistério, horror, drama, suspense etc♘
-
+ 
 Ⅱ ♗Gosto de jogos como: Bloodburn, Elden Ring, a serie Dark Souls, Sekiro, Honkai Star Rail♗
-
+ 
 Ⅲ ⚠ Gosto muito de arte, independente de como ela é ⚠
-
+ 
 🍀Amo a natureza e seu misterio sob a terra e ao mar🍀
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spritze&theme=radical&show_icons=true)
+<br>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spritze&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Spritze&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
